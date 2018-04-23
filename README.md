@@ -1,2 +1,2 @@
 # Math
-Math with Jupyter (Grades 5 to 9)
+Math with Jupyter demonstrations (Grades 5 to 9)
